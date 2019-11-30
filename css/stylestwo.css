@@ -1,0 +1,66 @@
+*{
+	margin: 0px
+}
+
+body {
+font-family: 'Oxygen', sans-serif;
+background: url(../img/bgtwo.jpg);
+background-size: cover;
+
+}
+.container{
+width: 450px;
+margin-top: 200px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 520px;
+
+}
+/*admin form*/
+
+.login-section {
+	background-color: #5D6D7E;
+	padding:25px;
+
+}
+
+.login-section img {
+	margin: 0 auto;
+	width:  150px;
+	display: block;
+
+
+}
+.login-section h2{
+color: #fff;
+text-align: center;
+font-size: 30px;
+margin: 10px 0px
+}
+.form-control{
+	width: 94%;
+	height:25px;
+	padding: 5px;
+	margin: 5px 0px;
+}
+.btn{
+margin: 10px auto;
+
+display: block;
+
+background:darkred;
+
+background-color:#33cc33;
+
+color: #ffffff;
+
+padding: 6px 14px;
+
+border:none;
+
+text-transform: uppercase;
+
+box-shadow: 2px 2px 4px #33cc33;
+
+text-align: center;
+}

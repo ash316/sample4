@@ -1,0 +1,67 @@
+*{
+	margin: 0px
+}
+
+body {
+font-family: 'Oxygen', sans-serif;
+background: url(../img/bg.jpg);
+background-size: cover;
+
+}
+.container{
+width: 450px;
+margin-top: 300px;
+  margin-bottom: 100px;
+  margin-right: 500px;
+  margin-left: 1050px;
+
+}
+/*admin form*/
+
+.login-section {
+	opacity: 0.8;
+	background-color:  #9c734a;
+	padding:05px;
+	box-shadow: 2px 5px 5px #808080;
+}
+
+.login-section img {
+	margin: 0 auto;
+	width:  100px;
+	display: block;
+
+
+}
+.login-section h2{
+color: #fff;
+text-align: center;
+font-size: 30px;
+margin: 10px 0px
+}
+.form-control{
+	width: 70%;
+	height:25px;
+	padding: 5px;
+	margin: 5PX 60PX;
+	text-align: center;
+}
+.btn{
+margin: 10px auto;
+
+display: block;
+
+background:#a9a9a9;
+
+color: #fff;
+background-color:#5d74b9;
+
+padding: 6px 14px;
+
+border:none;
+
+text-transform: uppercase;
+
+box-shadow: 2px 2px 4px #a9a9a9;
+
+text-align: center;
+}
